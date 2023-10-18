@@ -2,7 +2,7 @@
 home: true
 heroImage: /img/chbcjs.png
 actionText: 开始学习 →
-actionLink: /guide/
+actionLink: /java/interview/
 features:
 - title: 简洁至上
   details: 以 Markdown 为中心的项目结构，简洁大方的页面主题与内容，帮助你专注于自习。
