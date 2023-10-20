@@ -10,10 +10,10 @@ module.exports = [
     {
         text: 'Java',
         items: [
-            {text: 'Java基础', link: '/java/java-beginner/'},
-            {text: 'Java基础进阶', link: '/java/java-intermediate/'},
-            {text: 'Java高级进阶', link: '/java/java-senior/'},
+            {text: 'Java基础', link: '/java/java-base/'},
             {text: 'JavaWeb', link: '/java/java-web/'},
+            {text: 'Java并发与多线程', link: '/java/juc/'},
+            {text: 'Java虚拟机', link: '/java/jvm/'},
             {text: 'Java主流框架', link: '/java/frame/'},
             {text: '分布式/微服务/并行架构', link: '/java/microservice/'},
             {text: 'Java面试系列', link: '/java/interview/'},
