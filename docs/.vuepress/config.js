@@ -4,8 +4,8 @@ const nav = require("./nav.js");
 const sidebar = require("./sidebar.js");
 
 module.exports = {
-    title: '沧海自习室',
-    description: '感谢你那么好看还来到了沧海的自习室！',
+    title: '\t沧海coding',
+    description: '欢迎来到沧海的coding空间！',
     dest: './dist',
     base: '/coding/',
     devServer: {

@@ -5,6 +5,7 @@ module.exports = [
         children: [
             '/java/java-base/notes/introduce',
             '/java/java-base/notes/grammar',
+            '/java/java-base/notes/download',
         ]
     },
     {
