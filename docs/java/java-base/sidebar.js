@@ -4,8 +4,8 @@ module.exports = [
         collapsable: true,
         children: [
             '/java/java-base/notes/introduce',
-            '/java/java-base/notes/grammar',
             '/java/java-base/notes/download',
+            '/java/java-base/notes/grammar',
         ]
     },
     {
